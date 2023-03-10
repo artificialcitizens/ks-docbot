@@ -1,0 +1,8 @@
+discord
+langchain
+python-dotenv
+openai
+chromadb
+unstructured
+pypdf
+faiss-cpu
